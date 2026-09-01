@@ -1,0 +1,7 @@
+sherpa-onnx
+librosa
+numpy
+matplotlib
+IPython
+soundfile
+scipy
